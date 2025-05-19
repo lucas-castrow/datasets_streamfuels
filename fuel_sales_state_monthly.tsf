@@ -2,8 +2,7 @@
 # This dataset contains 216 monthly time series provided by ANP and cleaned by CISIA.
 #
 # For more details, please refer to
-# Makridakis, S., Spiliotis, E., Assimakopoulos, V., 2020. The m4 competition: 100,000 time series and 61 forecasting methods. International Journal of Forecasting 36 (1), 54–74.
-# Makridakis, S., Spiliotis, E., Assimakopoulos, V., 2018. The m4 competition: results, findings, conclusion and way forward, International Journal of Forecasting 34 (4), 802–808.
+# Castro, L.G.M., Ribeiro, A.G.R., Barddal, J.P., Britto Jr, A.S., Souza, V.M.A., 2025. StreamFuels: Continuosly Updated Fuel Sales Datasets for Forecasting, Classification, and Pattern Analysis. Scientific Data.
 #
 @relation CISIA-ANP
 @attribute series_name string
